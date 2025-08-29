@@ -155,22 +155,46 @@ The project generates comprehensive analysis including:
 The system generates detailed comparison reports with visualizations:
 
 #### Performance Metrics
-- **[Performance Score Comparison](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/01_performance_score_comparison.png)** - Overall system performance metrics
-- **[MTR Jitter Comparison](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/02_mtr_jitter_comparison.png)** - Network stability analysis
-- **[Success Rate by Type](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/03_success_rate_by_type.png)** - Traffic success rates across different protocols
-- **[Bandwidth vs Latency](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/04_bandwidth_vs_latency.png)** - Performance trade-off analysis
+
+**Performance Score Comparison** - Overall system performance metrics
+![Performance Score Comparison](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/01_performance_score_comparison.png)
+
+**MTR Jitter Comparison** - Network stability analysis
+![MTR Jitter Comparison](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/02_mtr_jitter_comparison.png)
+
+**Success Rate by Type** - Traffic success rates across different protocols
+![Success Rate by Type](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/03_success_rate_by_type.png)
+
+**Bandwidth vs Latency** - Performance trade-off analysis
+![Bandwidth vs Latency](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/04_bandwidth_vs_latency.png)
 
 #### Network Quality
-- **[Jitter Quality Distribution](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/05_jitter_quality_distribution.png)** - Network stability patterns
-- **[Latency Comparison by Type](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/06_latency_comparison_by_type.png)** - Response time analysis
-- **[Network Quality Heatmap](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/09_network_quality_heatmap.png)** - Visual network performance mapping
-- **[MTR Performance Improvements](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/08_mtr_performance_improvements.png)** - Network diagnostic enhancements
+
+**Jitter Quality Distribution** - Network stability patterns
+![Jitter Quality Distribution](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/05_jitter_quality_distribution.png)
+
+**Latency Comparison by Type** - Response time analysis
+![Latency Comparison by Type](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/06_latency_comparison_by_type.png)
+
+**Network Quality Heatmap** - Visual network performance mapping
+![Network Quality Heatmap](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/09_network_quality_heatmap.png)
+
+**MTR Performance Improvements** - Network diagnostic enhancements
+![MTR Performance Improvements](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/08_mtr_performance_improvements.png)
 
 #### Traffic Analysis
-- **[Throughput Timeline](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/07_throughput_timeline.png)** - Bandwidth utilization over time
-- **[MTR Test Types Comparison](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/11_mtr_test_types_comparison.png)** - Network diagnostic effectiveness
-- **[Metrics Summary Table](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/10_metrics_summary_table.png)** - Comprehensive performance overview
-- **[Overall Assessment](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/12_overall_assessment.png)** - Complete system evaluation
+
+**Throughput Timeline** - Bandwidth utilization over time
+![Throughput Timeline](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/07_throughput_timeline.png)
+
+**MTR Test Types Comparison** - Network diagnostic effectiveness
+![MTR Test Types Comparison](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/11_mtr_test_types_comparison.png)
+
+**Metrics Summary Table** - Comprehensive performance overview
+![Metrics Summary Table](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/10_metrics_summary_table.png)
+
+**Overall Assessment** - Complete system evaluation
+![Overall Assessment](https://github.com/sandunsrimal/SDN-Research/blob/main/comparison_20250610_100945/12_overall_assessment.png)
 
 Results are saved in:
 - `logs/` - Raw traffic data and session information
