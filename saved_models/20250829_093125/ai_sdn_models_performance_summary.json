@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "timestamp": "2025-08-29T09:31:25.779342",
+    "training_steps": 352,
+    "packets_processed": 127,
+    "ai_routing_enabled": false
+  },
+  "latest_losses": {
+    "traffic_prediction_loss": 10126262009856.0,
+    "path_optimizer_loss": 0.0
+  },
+  "loss_trends": {
+    "traffic_prediction_loss": "decreasing",
+    "path_optimizer_loss": "no_data"
+  },
+  "network_health": {
+    "packet_processing_rate": 127.0,
+    "latency_status": 0.0005250000000000001
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "timestamp": "20250829_094059",
+    "training_steps": 359,
+    "epsilon": 0.33296256028303794,
+    "packets_processed": 183,
+    "hosts_learned": 8,
+    "switches_connected": 5
+}

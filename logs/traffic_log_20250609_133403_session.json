@@ -1,0 +1,52 @@
+{
+  "start_time": "2025-06-09T13:34:03.565796",
+  "end_time": "2025-06-09T14:34:59.211133",
+  "duration_seconds": 3655.645348,
+  "total_flows": 767,
+  "successful_flows": 766,
+  "log_filename": "/logs/traffic_log_20250609_133403.csv",
+  "topology_info": {
+    "hosts": [
+      "h1",
+      "h2",
+      "h3",
+      "h4",
+      "h5",
+      "h6",
+      "h7",
+      "h8"
+    ],
+    "switches": [
+      "s0",
+      "s1",
+      "s2",
+      "s3",
+      "s4"
+    ],
+    "traffic_types": [
+      "iperf",
+      "ping",
+      "mtr"
+    ],
+    "link_capacities": {
+      "s0-s1": 100,
+      "s0-s2": 100,
+      "s0-s3": 100,
+      "s0-s4": 100,
+      "s1-s4": 80,
+      "s2-s3": 60,
+      "s1-s3": 40,
+      "s2-s4": 40
+    },
+    "host_to_switch": {
+      "h1": "s1",
+      "h2": "s1",
+      "h3": "s2",
+      "h4": "s2",
+      "h5": "s3",
+      "h6": "s3",
+      "h7": "s4",
+      "h8": "s4"
+    }
+  }
+}
